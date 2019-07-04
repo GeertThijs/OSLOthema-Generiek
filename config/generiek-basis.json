@@ -12,8 +12,5 @@
   "contributors-column": "Generiek",
   "site": "site-skeleton",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
-  "standaardregisterurl": "",
-  "dependencies": [
-      ]
-  
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/" 
 }]
