@@ -6,7 +6,7 @@
   "template": "generiek-basis-ap.j2",
   "title": "Generiek Basis",
   "publication-state": "zonderStatus",
-  "publication-date": "01-07-2018",
+  "publication-date": "01-07-2019",
   "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Generiek",
